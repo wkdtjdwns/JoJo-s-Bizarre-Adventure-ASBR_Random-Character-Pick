@@ -1,0 +1,721 @@
+[
+    {
+        "name": "죠나단 죠스타",
+        "image": "images/jojo/Jonathan Joestar.png",
+        "info": {
+            "style": "파문",
+            "damage": "B ~ A",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "어려움",
+            "etc": "우수한 콤보력 + 압박력, 부활"
+        }
+    },
+
+    {
+        "name": "죠셉 죠스타(2부)",
+        "image": "images/jojo/Joseph Joestar(Part 2).png",
+        "info": {
+            "style": "파문",
+            "damage": "B ~ A",
+            "comboTime": "긺",
+            "difficulty": "어려움",
+            "etc": "크리키한 반격기"
+        }
+    },
+
+    {
+        "name": "쿠죠 죠타로(3부)",
+        "image": "images/jojo/Jotaro Kujo(Part 3).png",
+        "info": {
+            "style": "스탠드",
+            "damage": "A",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "쉬움 ~ 보통",
+            "etc": "쉬우면서 강한 챔피언"
+        }
+    },
+
+    {
+        "name": "히가시카타 죠스케(4부)",
+        "image": "images/jojo/Josuke Higashikata(Part 4).png",
+        "info": {
+            "style": "스탠드",
+            "damage": "A",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "매끄러운 콤보 연결"
+        }
+    },
+
+    {
+        "name": "죠르노 죠바나",
+        "image": "images/jojo/Giorno Giovanna.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B ~ S",
+            "comboTime": "긺",
+            "difficulty": "어려움",
+            "etc": "HHA의 스턴, 골익레의 의존도 ↑"
+        }
+    },
+
+    {
+        "name": "쿠죠 죠린",
+        "image": "images/jojo/Jolyne Cujoh.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B ~ A",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "어려움",
+            "etc": "다재다능한 챔피언"
+        }
+    },
+
+    {
+        "name": "죠니 죠스타",
+        "image": "images/jojo/Johnny Joestar.png",
+        "info": {
+            "style": "기마",
+            "damage": "B ~ A",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "어려움 ~ 매우 어려움",
+            "etc": "제한된 움직임, 잡기 부재"
+        }
+    },
+
+    {
+        "name": "히가시카타 죠스케(8부)",
+        "image": "images/jojo/Josuke Higashikata(Part 8).png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B ~ A",
+            "comboTime": "짧음 ~ 긺",
+            "difficulty": "보통",
+            "etc": "높은 기 회수율, 우수한 기상심리"
+        }
+    },
+
+    {
+        "name": "윌 A. 체펠리",
+        "image": "images/party/Will A. Zeppeli.png",
+        "info": {
+            "style": "파문",
+            "damage": "B ~ A",
+            "comboTime": "긺",
+            "difficulty": "어려움",
+            "etc": "독특한 움직임, 강력한 방턴"
+        }
+    },
+
+    {
+        "name": "로버트 E.O. 스피드왜건",
+        "image": "images/party/Robert E.O. Speedwagon.png",
+        "info": {
+            "style": "오거 스트리트",
+            "damage": "A",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "강한 압박 + 화력"
+        }
+    },
+
+    {
+        "name": "디오 브란도",
+        "image": "images/boss/Dio Brando.png",
+        "info": {
+            "style": "흡혈",
+            "damage": "B ~ A",
+            "comboTime": "보통",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "준수한 흡혈, 최악의 체력"
+        }
+    },
+
+    {
+        "name": "시저 안토니오 체펠리",
+        "image": "images/party/Caesar Anthonio Zeppeli.png",
+        "info": {
+            "style": "파문",
+            "damage": "B",
+            "comboTime": "짧음 ~ 보통",
+            "difficulty": "어려움",
+            "etc": "우수한 장풍 + 방턴 + 셋업"
+        }
+    },
+
+    {
+        "name": "리사리사",
+        "image": "images/party/Lisa Lisa.png",
+        "info": {
+            "style": "파문",
+            "damage": "B",
+            "comboTime": "짧음 ~ 보통",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "빠른 움직임"
+        }
+    },
+
+    {
+        "name": "루돌 폰 슈트로하임",
+        "image": "images/party/Rudol von Stroheim.png",
+        "info": {
+            "style": "세계 제일의 과학력",
+            "damage": "A ~ S",
+            "comboTime": "긺",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "준수한 기본기, 높은 자해 피해량"
+        }
+    },
+
+    {
+        "name": "에시디시",
+        "image": "images/enemy/Esidisi.png",
+        "info": {
+            "style": "모드",
+            "damage": "S (나란차 어시까지하면 GOAT)",
+            "comboTime": "짧음 ~ 보통",
+            "difficulty": "어려움",
+            "etc": "우수한 공턴, 최악의 체력"
+        }
+    },
+
+    {
+        "name": "와무우",
+        "image": "images/enemy/Wamuu.png",
+        "info": {
+            "style": "모드",
+            "damage": "A",
+            "comboTime": "짧음 ~ 긺",
+            "difficulty": "어려움",
+            "etc": "강력한 모드 성능 + 가드 압박"
+        }
+    },
+
+    {
+        "name": "카즈",
+        "image": "images/boss/Kars.png",
+        "info": {
+            "style": "모드",
+            "damage": "B ~ A",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "어려움",
+            "etc": "유연한 플레이 스타일"
+        }
+    },
+
+    {
+        "name": "죠셉 죠스타(3부)",
+        "image": "images/party/Joseph Joestar(Part 3).png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B ~ A",
+            "comboTime": "긺",
+            "difficulty": "어려움",
+            "etc": "길쭉한 리치, 자해 데미지"
+        }
+    },
+
+    {
+        "name": "무함마드 압둘",
+        "image": "images/party/Muhammad Avdol.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "A ~ S",
+            "comboTime": "긺 ~ 매우 긺",
+            "difficulty": "어려움",
+            "etc": "효율적인 셋업, 단단한 리버설"
+        }
+    },
+
+    {
+        "name": "카쿄인 노리아키",
+        "image": "images/party/Noriaki Kakyoin.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B ~ A",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "뛰어난 니가와"
+        }
+    },
+
+    {
+        "name": "장 피에르 폴나레프",
+        "image": "images/party/Jean Pierre Polnareff.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "보통",
+            "etc": "길쭉한 리치, 높은 기 회수율"
+        }
+    },
+
+    {
+        "name": "이기",
+        "image": "images/party/Iggy.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B ~ A",
+            "comboTime": "긺 ~ 매우 긺",
+            "difficulty": "어려움",
+            "etc": "기본 잡기 면역, 최악의 체력"
+        }
+    },
+
+    {
+        "name": "홀 호스",
+        "image": "images/enemy/Hol Hors.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B",
+            "comboTime": "보통",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "유연한 니가와"
+        }
+    },
+
+    {
+        "name": "머라이어",
+        "image": "images/enemy/Mariah.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "A",
+            "comboTime": "짧음 ~ 보통",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "까다로운 니가와"
+        }
+    },
+
+    {
+        "name": "펫숍",
+        "image": "images/enemy/Pet Shop.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B ~ A",
+            "comboTime": "보통",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "공중전의 왕, 낮은 체력"
+        }
+    },
+
+    {
+        "name": "바닐라 아이스",
+        "image": "images/enemy/Cool Ice.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "A ~ S",
+            "comboTime": "짧음 ~ 보통",
+            "difficulty": "쉬움 ~ 어려움",
+            "etc": "빠른 가불기, 다운 공격기 ↑"
+        }
+    },
+
+    {
+        "name": "DIO",
+        "image": "images/boss/DIO.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "A",
+            "comboTime": "보통",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "우수한 기본기, 낮은 체력"
+        }
+    },
+
+    {
+        "name": "쿠죠 죠타로(4부)",
+        "image": "images/party/Jotaro Kujo(Part 4).png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B ~ A",
+            "comboTime": "긺",
+            "difficulty": "어려움",
+            "etc": "다재다능한 챔피언"
+        }
+    },
+
+    {
+        "name": "히로세 코이치",
+        "image": "images/party/Koichi Hirose.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B",
+            "comboTime": "짧음 ~ 보통",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "은근히 길쭉한 기본기"
+        }
+    },
+
+    {
+        "name": "니지무라 오쿠야스",
+        "image": "images/party/Okuyasu Nijimura.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B",
+            "comboTime": "긺",
+            "difficulty": "보통",
+            "etc": "가드 불능, 공간 삭제"
+        }
+    },
+
+    {
+        "name": "야마기시 유카코",
+        "image": "images/party/Yukako Yamagishi.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B ~ A",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "길쭉한 리치, 부활"
+        }
+    },
+
+    {
+        "name": "얀구 시게키요",
+        "image": "images/party/Shigekiyo Yangu.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B ~ S",
+            "comboTime": "짧음 ~ 긺",
+            "difficulty": "어려움",
+            "etc": "우수한 장풍 + 공턴 성능"
+        }
+    },
+
+    {
+        "name": "키시베 로한",
+        "image": "images/party/Rohan Kishibe.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "행동 봉인, 유사 잡기 챔피언"
+        }
+    },
+
+    {
+        "name": "니지무라 케이초",
+        "image": "images/enemy/Keicho Nijimurai.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B",
+            "comboTime": "보통",
+            "difficulty": "어려움",
+            "etc": "균형있는 니기와 + 셋업"
+        }
+    },
+
+    {
+        "name": "오토이시 아키라",
+        "image": "images/enemy/Akira Otoishi.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "C ~ A",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "어려움",
+            "etc": "좋은 기본기, 높은 기 회수율"
+        }
+    },
+
+    {
+        "name": "훈가미 유야",
+        "image": "images/enemy/Yuya Fungami.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B ~ A",
+            "comboTime": "긺 ~ 매우 긺",
+            "difficulty": "어려움",
+            "etc": "높은 기 효율, 낮은 체력"
+        }
+    },
+
+    {
+        "name": "키라 요시카게",
+        "image": "images/enemy/Yoshikage Kira.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "A",
+            "comboTime": "긺 ~ 매우 긺",
+            "difficulty": "어려움",
+            "etc": "쉬운 가드 불가 시동, 자폭 피해"
+        }
+    },
+
+    {
+        "name": "카와지리 코사쿠",
+        "image": "images/boss/Kosaku Kawajiri.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "A",
+            "comboTime": "긺 ~ 매우 긺",
+            "difficulty": "어려움 ~ 매우 어려움",
+            "etc": "우수한 기상심리, 자폭 피해"
+        }
+    },
+
+    {
+        "name": "브루노 부차라티",
+        "image": "images/party/Bruno Bucciarati.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "A",
+            "comboTime": "긺",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "우수한 이동 능력, 역전의 왕"
+        }
+    },
+
+    {
+        "name": "나란차 길가",
+        "image": "images/party/Narancia Ghirga.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B ~ A",
+            "comboTime": "보통",
+            "difficulty": "어려움",
+            "etc": "준수한 니가와, 낮은 체력"
+        }
+    },
+
+    {
+        "name": "귀도 미스타",
+        "image": "images/party/Guido Mista.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B ~ (고수라는 가정하에) S",
+            "comboTime": "긺",
+            "difficulty": "매우 어려움 (썩은 물 전용 챔...)",
+            "etc": "굉장한 니가와"
+        }
+    },
+
+    {
+        "name": "판나코타 푸고",
+        "image": "images/party/Pannacotta Fugo.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B ~ A",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "어려움",
+            "etc": "로우 리스크 하이 리턴"
+        }
+    },
+
+    {
+        "name": "레오네 아바키오",
+        "image": "images/party/Leone Abbacchio.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "C ~ A",
+            "comboTime": "긺 ~ 매우 긺",
+            "difficulty": "어려움",
+            "etc": "다양한 공격 수단, 양날의 검인 재생"
+        }
+    },
+
+    {
+        "name": "트리시 우나",
+        "image": "images/party/Trish Una.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "C ~ A (GHA 이후 도발 콤)",
+            "comboTime": "긺",
+            "difficulty": "어려움",
+            "etc": "높은 가드 대미지"
+        }
+    },
+
+    {
+        "name": "리조토 네로",
+        "image": "images/enemy/Risotto Nero.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B ~ A",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "로우 리스크 하이 리턴"
+        }
+    },
+
+    {
+        "name": "프로슈토&페시",
+        "image": "images/enemy/Prosciutto and Pesci.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "A",
+            "comboTime": "긺",
+            "difficulty": "어려움",
+            "etc": "다재다능한 챔피언"
+        }
+    },
+
+    {
+        "name": "기아초",
+        "image": "images/enemy/Ghiaccio.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "빠른 움직임, 높은 기 효율"
+        }
+    },
+
+    {
+        "name": "디아볼로",
+        "image": "images/boss/Diavolo.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "A ~ S",
+            "comboTime": "짧음 ~ 긺",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "높은 기 회수율, 방턴의 제왕"
+        }
+    },
+
+    {
+        "name": "에르메스 코스텔로",
+        "image": "images/party/Ermes Costello.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "A",
+            "comboTime": "짧음 ~ 긺",
+            "difficulty": "어려움",
+            "etc": "높은 체력, 자해 대미지"
+        }
+    },
+
+    {
+        "name": "F . F",
+        "image": "images/party/F・F.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B ~ A",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "어려움 ~ 매우 어려움",
+            "etc": "다재다능한 전략전술"
+        }
+    },
+
+    {
+        "name": "웨더 리포트",
+        "image": "images/party/Weather Forecast.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "A",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "어려움 ~ 매우 어려움",
+            "etc": "우수한 압박과 기상심리"
+        }
+    },
+
+    {
+        "name": "나르시소 안나수이",
+        "image": "images/party/Narciso Anastasia.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "A",
+            "comboTime": "짧음 ~ 긺",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "매서운 타격/잡기 심리"
+        }
+    },
+
+    {
+        "name": "엔리코 푸치",
+        "image": "images/enemy/Father Pucchi.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B ~ A",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "기술 봉인, 하이 리턴 커잡"
+        }
+    },
+
+    {
+        "name": "엔리코 푸치(최종)",
+        "image": "images/boss/Father Pucchi (Final).png",
+        "info": {
+            "style": "스탠드",
+            "damage": "C ~ A",
+            "comboTime": "긺 ~ 매우 긺",
+            "difficulty": "어려움 ~ 매우 어려움",
+            "etc": "기술 봉인, 강력한 기본기 성능"
+        }
+    },
+
+    {
+        "name": "자이로 체펠리",
+        "image": "images/party/Gyro Zeppeli.png",
+        "info": {
+            "style": "기마",
+            "damage": "A",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "어려움 ~ 매우 어려움",
+            "etc": "높은 기 회수율, 이상한 각도"
+        }
+    },
+
+    {
+        "name": "디에고 브란도",
+        "image": "images/enemy/Diego Brando.png",
+        "info": {
+            "style": "기마",
+            "damage": "B",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "보통",
+            "etc": "유해의 높은 효율, 불안정한 궤도"
+        }
+    },
+
+    {
+        "name": "퍼니 밸런타인",
+        "image": "images/boss/Funny Valentine.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "B ~ A",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "니가와, 강제 다운 버스트"
+        }
+    },
+
+    {
+        "name": "디에고 브란도(평행 세계)",
+        "image": "images/boss/Diego Brando (THE WORLD).png",
+        "info": {
+            "style": "기마",
+            "damage": "A ~ S",
+            "comboTime": "보통 ~ 긺",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "높은 기 회수율 + 기본기 성능"
+        }
+    },
+
+    {
+        "name": "원더 오브 유",
+        "image": "images/boss/Wonder of U.png",
+        "info": {
+            "style": "스탠드",
+            "damage": "A ~ S",
+            "comboTime": "짧음",
+            "difficulty": "보통 ~ 어려움",
+            "etc": "우수한 니가와, 낮은 체력"
+        }
+    },
+
+    {
+        "name": "하시자와 이쿠로",
+        "image": "images/etc/Ikuro Hashizawa.png",
+        "info": {
+            "style": "바오 암드 페노메논",
+            "damage": "A",
+            "comboTime": "보통 ~ 긻",
+            "difficulty": "보통",
+            "etc": "쉬운 콤보 시동, 게이지 의존도 ↑"
+        }
+    }
+]
