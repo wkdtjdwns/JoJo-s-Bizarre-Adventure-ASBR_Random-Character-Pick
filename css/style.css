@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'GumiIndustryTTF';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2410-1@1.0/GumiIndustryTTF.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'GumiIndustryTTF';
+    background-color: #aadb93;
+    text-align: center;
+    padding: 10px;
+}
+
+.wrap {
+    width: 700px;
+    margin: 0 auto;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#pick-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+.result-info {
+    margin-top: 20px;
+}
+
+#champion-image {
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+
+#champion-name {
+    margin: 0;
+    padding: 0;
+    font-size: 25pt;
+}
+
+#champion-info p {
+    padding: 0px;
+    font-size: 16pt;
+}
